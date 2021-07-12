@@ -1,5 +1,4 @@
-# Flask tutorial
-## [IEEE SPS Summer School 2021](https://sites.google.com/iitdh.ac.in/vssasr2021) on ASR
+# Flask tutorial | [IEEE SPS Summer School 2021](https://sites.google.com/iitdh.ac.in/vssasr2021) on ASR
 
 ## What is Flask?
 
